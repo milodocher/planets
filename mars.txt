@@ -1,11 +1,4 @@
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
-<<<<<<< HEAD
-This line is added to Milo's copy.   
-=======
-We are also now considering Venus as a base.
-An ill-considered change.
-I changed another line.
-
->>>>>>> origin/main
+We removed the conflict on this line. 
